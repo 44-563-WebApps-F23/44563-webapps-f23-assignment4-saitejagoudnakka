@@ -1,0 +1,25 @@
+.speech {
+   font-family: 'Times New Roman', Times, serif;
+   font-size: 20px;
+   color: black;
+}
+.direction{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+    color: black;
+    background-color: beige;
+    a.hover{
+        background-color: lightcoral;
+        color: brown;
+    }
+}
+.TESMAN{
+    color: aquamarine;
+}
+.MRS.ELVSTED {
+    color: yellow;
+
+}
+.HEDDA{
+    color: yellowgreen;
+}
