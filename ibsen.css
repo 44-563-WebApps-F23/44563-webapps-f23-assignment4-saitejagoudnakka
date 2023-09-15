@@ -8,18 +8,25 @@
     font-size: 15px;
     color: black;
     background-color: beige;
-    a.hover{
-        background-color: lightcoral;
+}
+.direction:hover{
+    background-color: lightcoral;
         color: brown;
-    }
 }
 .TESMAN{
     color: aquamarine;
 }
-.MRS.ELVSTED {
-    color: yellow;
+.ELVSTED {
+    color: violet;
 
 }
 .HEDDA{
     color: yellowgreen;
+}
+.table{
+    border: black;
+    color: brown;
+    text-align: center;
+    padding: 2%;
+    margin-left: 25%;
 }
