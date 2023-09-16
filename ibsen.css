@@ -7,9 +7,9 @@
     font-family: 'Courier New', Courier, monospace;
     font-size: 15px;
     color: black;
-    background-color: beige;
+    
 }
-direction:hover{
+.direction:hover{
     background-color: lightcoral;
         color: brown;
 }
@@ -36,19 +36,21 @@ direction:hover{
     margin-left: 25%;
 }
 .HEDDA:hover{
-    background-color: lightcoral;
-        color: brown;
+    box-shadow:10px 10px 20px rgba(0, 255, 0, 0.7); 
+    border-color: black;
+        
 }
 .ELVSTED:hover{
-    background-color: lightcoral;
-        color: brown;
+    box-shadow:10px 10px 20px rgba(0, 255, 0, 0.7); 
+    border-color: black;
 }
 .TESMAN:hover{
-    background-color: lightcoral;
-        color: brown;
+    box-shadow:10px 10px 20px rgba(0, 255, 0, 0.7); 
+    border-color: black;
 }
 .table th{
     color: black;
     background-color: rgb(170, 106, 181);
 }
+
 
