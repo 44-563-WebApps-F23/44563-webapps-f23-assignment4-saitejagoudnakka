@@ -47,5 +47,8 @@ direction:hover{
     background-color: lightcoral;
         color: brown;
 }
-
+.table th{
+    color: black;
+    background-color: rgb(170, 106, 181);
+}
 
