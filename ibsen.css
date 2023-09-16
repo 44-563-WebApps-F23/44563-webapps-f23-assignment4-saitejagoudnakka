@@ -9,12 +9,14 @@
     color: black;
     background-color: beige;
 }
-.direction:hover{
+direction:hover{
     background-color: lightcoral;
         color: brown;
 }
+
 .TESMAN{
     color: aquamarine;
+    
 }
 .ELVSTED {
     color: violet;
@@ -22,7 +24,10 @@
 }
 .HEDDA{
     color: yellowgreen;
+
 }
+
+
 .table{
     border: black;
     color: brown;
@@ -30,3 +35,17 @@
     padding: 2%;
     margin-left: 25%;
 }
+.HEDDA:hover{
+    background-color: lightcoral;
+        color: brown;
+}
+.ELVSTED:hover{
+    background-color: lightcoral;
+        color: brown;
+}
+.TESMAN:hover{
+    background-color: lightcoral;
+        color: brown;
+}
+
+
