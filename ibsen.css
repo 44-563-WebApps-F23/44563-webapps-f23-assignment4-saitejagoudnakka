@@ -7,6 +7,7 @@
     font-family: 'Courier New', Courier, monospace;
     font-size: 15px;
     color: black;
+    background-color: beige;
     
 }
 .direction:hover{
@@ -37,16 +38,18 @@
 }
 .HEDDA:hover{
     box-shadow:10px 10px 20px rgba(0, 255, 0, 0.7); 
-    border-color: black;
+    border: 2px solid black;
         
 }
 .ELVSTED:hover{
     box-shadow:10px 10px 20px rgba(0, 255, 0, 0.7); 
-    border-color: black;
+    border:2px solid green;
+    text-shadow: 2px 3px 5px rgb(237, 7, 222)
 }
 .TESMAN:hover{
     box-shadow:10px 10px 20px rgba(0, 255, 0, 0.7); 
-    border-color: black;
+    border: 2px solid black;
+    text-shadow: 2px 3px 5px violet;
 }
 .table th{
     color: black;
