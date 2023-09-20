@@ -37,16 +37,19 @@
     margin-left: 25%;
 }
 .HEDDA:hover{
+    filter: blur(1px);
     box-shadow:10px 10px 20px rgba(0, 255, 0, 0.7); 
     border: 2px solid black;
         
 }
 .ELVSTED:hover{
+    filter: blur(1px);
     box-shadow:10px 10px 20px rgba(0, 255, 0, 0.7); 
     border:2px solid green;
     text-shadow: 2px 3px 5px rgb(237, 7, 222)
 }
 .TESMAN:hover{
+    filter: blur(1px);
     box-shadow:10px 10px 20px rgba(0, 255, 0, 0.7); 
     border: 2px solid black;
     text-shadow: 2px 3px 5px violet;
